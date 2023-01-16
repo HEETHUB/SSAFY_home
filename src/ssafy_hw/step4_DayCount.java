@@ -16,7 +16,5 @@ public class step4_DayCount {
 			ans += months[i];
 		}
 		System.out.println(mon+"월 "+day+"일은 "+(ans+day)+"번째 날입니다.");
-		
-		
 	}
 }
